@@ -1,5 +1,3 @@
-// https://p2-crear-una-api.onrender.com/
-
 const API_URL = "https://p2-crear-una-api.onrender.com/api/productos";
 const API_KEY = "llave_api_123";
 
